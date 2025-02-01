@@ -1,4 +1,10 @@
 pandas
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+xgboost
+dill
+Flask
+catboost
+# -e .      ##This require first time to build packsge: setup.py, comment it after first run
